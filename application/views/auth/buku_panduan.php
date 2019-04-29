@@ -11,7 +11,7 @@
       <title></title>
     </head>
     <body>
-    <center><h1> BUKU PANDUAN APLIKASI RESELLER BUAH</h1> </center>
+    <center><h1>PANDUAN APLIKASI RESELLER BUAH</h1> </center>
     <h2>Struktur Menu</h2> <br>
     <?php
     echo img('buah/login.jpg');
