@@ -1239,4 +1239,9 @@ class Auth extends CI_Controller
 		}
 	}
 
+	public function panduan ()
+	{
+		$this->load->view('auth/buku_panduan');
+	}
+
 }

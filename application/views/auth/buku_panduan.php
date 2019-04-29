@@ -8,15 +8,18 @@
     <!DOCTYPE html>
     <html>
     <head>
-      <title></title>
+      <title>buku panduan</title>
     </head>
     <body>
-    <center><h1>PANDUAN APLIKASI RESELLER BUAH</h1> </center>
-    <h2>Struktur Menu</h2> <br>
-    <?php
+    <div>
+      <iframe width="100%" height="670px" src="<?php echo base_url();?>assets/panduan_aplikasi.pdf"></iframe>
+    </div>
+    <!-- <center><h1>PANDUAN APLIKASI RESELLER BUAH</h1> </center> -->
+    <!-- <h2>Struktur Menu</h2> <br> -->
+    <!-- <?php
     echo img('buah/login.jpg');
-    ?>
-    1. Pada bagian dashboard terdapat tampilan jumlah produk yang sudah tersedia dan jumlah penjualan. <br>
+    ?> -->
+ <!--    1. Pada bagian dashboard terdapat tampilan jumlah produk yang sudah tersedia dan jumlah penjualan. <br>
     Fitur yang disediakan : blog, supplier, produk, user, slider, admin, logout, dan buku panduan. <br>
     2. Pada bagian blog anda dapat melihat data blog dan menambahkan data blog <br>
     3. Pada bagian supplier anda dapat melihat data supplier dan menambahkan data supplier <br>
@@ -29,7 +32,7 @@
     <h2>Cara Penggunaan</h2> <br>
     1. Melakukan login dengan memasukkan username dan password <br>
     2. Melakukan penambahan data produk dengan cara memilih fitur produk dan memilih tambah data kemudian memasukkan data produk. <br>
-    3. Untuk menambahkan data blog dapat memilih fitur blok kemudian pilih tambah blog dan masukkan data kesemua kolom yang di sediakan. Data yang telah di tambahkan dapat dilihat pada fitur data blog
+    3. Untuk menambahkan data blog dapat memilih fitur blok kemudian pilih tambah blog dan masukkan data kesemua kolom yang di sediakan. Data yang telah di tambahkan dapat dilihat pada fitur data blog -->
 
     </body>
     </html>

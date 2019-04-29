@@ -126,7 +126,7 @@
         </li>
       <?php endif ?>
       <li> <a href='<?php echo base_url() ?>auth/logout'> <i class="fa fa-sign-out"></i> <span>Logout</span> </a> </li>
-       <li> <a href='<?php echo base_url() ?>buku_panduan'> <i class="fa fa-sign-out"></i> <span>Buku Panduan</span> </a> </li>
+       <li> <a href='<?php echo base_url() ?>auth/panduan'> <i class="fa fa-sign-out"></i> <span>Buku Panduan</span> </a> </li>
        <li> <a href='<?php echo base_url() ?>versioning'> <i class="fa fa-sign-out"></i> <span>Source Code Versioning</span> </a> </li>
     </ul>
   </section>
