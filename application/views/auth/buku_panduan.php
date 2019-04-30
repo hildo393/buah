@@ -12,7 +12,7 @@
     </head>
     <body>
     <div>
-      <iframe width="80%" height="670px" src="<?php echo base_url();?>assets/panduan_aplikasi.pdf"></iframe>
+      <iframe width="100%" height="670px" src="<?php echo base_url();?>assets/panduan_aplikasi.pdf"></iframe>
     </div>
     <!-- <center><h1>PANDUAN APLIKASI RESELLER BUAH</h1> </center> -->
     <!-- <h2>Struktur Menu</h2> <br> -->
